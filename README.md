@@ -1,6 +1,7 @@
 # Screen-Streams 🎥
 ```
-React JS and Restful API based website the display all the movies and web series you search and JSON Server as a backend work handling.
+React JS and Restful API based website the display all the movies and web series you search 
+and JSON Server as a backend work handling.
 ```
 
 <p>
@@ -12,7 +13,7 @@ React JS and Restful API based website the display all the movies and web series
 <br>
 
 <div float="right" width="400">
-  <img align="left" height="550" width="400" src="Thumbnail.jpeg">
+  <img align="left" height="550" width="400" src="Thumbnail.jpg">
 </div>
 
 
