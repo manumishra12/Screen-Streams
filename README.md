@@ -9,54 +9,41 @@ and JSON Server as a backend work handling.
     ScreenStream is a software tool that allows users to share their computer screen with others in real-time. It enables remote collaboration and communication by allowing participants to view a user's desktop or specific application windows and allow user to search any web series and movies .
   </b>
 </p>
+<br>
+<br>
+
+
+```
+Install dependencies:
+npm install
+
+Run React dev server (http://localhost:3000):
+npm start
+```
+<br>
+
+```
+Restful API :
+📎Link : http://www.omdbapi.com
+
+Fill out the details and verify your mail Id,
+The API Key and API ID will be sent on your respective mail
+```
 
 <br>
 
 <div float="right" width="400">
-  <img align="left" height="550" width="400" src="Thumbnail.jpg">
+  <img align="left" height="600" width=100% src="Thumbnail.png">
 </div>
 
-
-
-
-### Install dependencies
-
-```
-npm install
-```
-
-### Run React dev server (http://localhost:3000)
-
-```
-npm start
-```
-
-### Run the JSON server (http://localhost:5000)
-
-```
-npm run server
-```
-
-### To build for production
-
-```
-npm run build
-```
+<hr>
 <br>
-<hr>
 
-### Other Terminal Commands(Optional)
+<div>
+  <p>
+  </p>
+</div>
 
-```
-npm install -g json-server
-npm i -g serve
-npm rum server
-npm i react-router-dom
-
-npm audit fix --force //if error
-```
-
-<hr>
 
 ### Contact Details
 ```
