@@ -39,10 +39,6 @@ The API Key and API ID will be sent on your respective mail
 <hr>
 <br>
 
-<div>
-  <p>
-  </p>
-</div>
 
 
 ### Contact Details
